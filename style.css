@@ -89,6 +89,7 @@ a:hover{
     font-size: 20px;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    text-align: justify;
 }
 img{
     
@@ -234,5 +235,33 @@ button:hover{
       display: flex;
       justify-content: center;
   }
+.btn_mail{
+    height: 40px;
+    font-size: 20px;
+}
+.btn_mail:hover{
+    cursor: pointer;
+}
+#contact{
+    height: 650px;
+    padding-top: 50px;
+    color: black;
 
-  
+}
+.menu2{
+    background-color: rgb(26, 34, 73);
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -3px 1px 13px 0px rgba(0,0,0,0.75);
+}
+.container_footer{
+    margin-top: -10px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: white;
+}  
