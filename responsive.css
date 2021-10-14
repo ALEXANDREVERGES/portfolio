@@ -128,3 +128,11 @@
         bottom: 0;
     }
 }
+@media screen and (min-width: 1200px) and (max-width: 3000px){
+    .derriereCarte{
+        margin: 0;
+        top: 0;
+        bottom: 0;
+    }
+
+}
