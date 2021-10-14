@@ -21,7 +21,7 @@
     }
     svg text{
         margin-top: 50px;
-        font-size: 55px;
+        font-size: 50px;
     }
     .carte{
         display: block;
@@ -30,7 +30,7 @@
         text-align: center;
     }
     #propos{
-        height: 1400px;
+        height: 1450px;
     }
     .img_profil{
         margin-bottom: 30px;
