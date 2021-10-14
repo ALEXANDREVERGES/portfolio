@@ -77,7 +77,11 @@ a{
     text-decoration: none;
 }
 a:hover{
-    text-decoration: underline;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 25px;
+
+
 }
 .text_titre{
     font-family: 'Ephesis', cursive;
