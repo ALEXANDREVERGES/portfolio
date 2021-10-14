@@ -57,6 +57,7 @@ body{
     align-items: center;
     box-shadow: -3px 1px 13px 0px rgba(0,0,0,0.75);
     z-index: 1000;
+    opacity: 0.7;
 }
 .menu_liste{
     color: white;
@@ -143,6 +144,7 @@ a:hover{
     height: 720px;
 }
 #back{
+    margin-top: 20px;
     background-image: url("img/fondpc.jpg");
     background-repeat: no-repeat;
     background-size: cover;
