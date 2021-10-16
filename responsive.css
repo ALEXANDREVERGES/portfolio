@@ -58,7 +58,7 @@
     }
     
     #actuellement{
-        height: 350px;
+        height: 400px;
     }
     .container_carte{
         
@@ -69,6 +69,8 @@
         width: 90%;
         margin-right: 0;
         margin-top: 10px;
+        margin: 0;
+        margin-bottom: 80px;
     }
     .derriereCarte{
         margin: 0;
@@ -79,7 +81,7 @@
         margin-top: -50px;
     }
     #portfolio{
-        height: 800px;
+        height: 1450px;
     }
     .menu2{
         text-align: center;
@@ -115,6 +117,9 @@
         
         flex-wrap: wrap;
         align-items: center;
+    }
+    #portfolio{
+        height: 1400px;
     }
     .laCarte{
         width: 60%;
